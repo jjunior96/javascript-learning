@@ -12,7 +12,7 @@ O objetivo desse repositório é reunir explicações e exemplos sobres as princ
 ## Referências Javascript
 
 - [MDN](https://developer.mozilla.org/docs/Web/JavaScript/Reference) - Simplesmente a melhor referência para linguagem.
-- [DevDocs](http://devdocs.io/javascript) - App que usa o MDN como base, porém funciona até mesmo **offline**.
+- [DevDocs](http://devdocs.io/javascript) - App que usa o MDN como base e funciona até mesmo **offline**!
 
 ## Artigos
 
