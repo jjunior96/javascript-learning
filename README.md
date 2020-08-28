@@ -6,7 +6,7 @@ O objetivo desse repositório é reunir explicações e exemplos sobres as princ
 
 ## Indíce
 
-- [Referencias Javascript](#referencias-javascript)
+- [Referencias Javascript](#referências-javascript)
 - [Artigos](#artigos)
 
 ## Referências Javascript
