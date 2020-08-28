@@ -4,7 +4,7 @@
 
 O objetivo desse repositório é reunir explicações e exemplos sobres as principais features do Javascript: um guia rápido.
 
-## Contents
+## Indíce
 
 - [Referencias Javascript](#referencias-javascript)
 - [Artigos](#artigos)
@@ -19,4 +19,3 @@ O objetivo desse repositório é reunir explicações e exemplos sobres as princ
 Estou criando uma série de postagens sobre Javascript em [meu site](https://alvesjunior.netlify.app/).
 
 Lá, descrevo com mais detalhes cada **funcionalidade**, alguns **exemplos** e **aplicação**.
-
