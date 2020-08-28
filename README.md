@@ -2,7 +2,7 @@
 
 > Um repositório para aprender sobre as principais features do Javascript
 
-O objetivo desse repositório é reunir explicações e exemplos sobres as principais features do Javascript: um guia rápido.
+O objetivo desse repositório é reunir explicações e exemplos sobres as principais features do Javascript: **um guia rápido**.
 
 ## Indíce
 
