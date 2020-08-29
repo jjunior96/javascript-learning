@@ -21,7 +21,7 @@ alunos.forEach( (aluno) => console.log(aluno) );
 
 alunos.forEach((aluno) => {
   alunos.push('Marcia');
-  console.log(aluno);
+  // console.log(aluno);
 });
 /**
  * José
